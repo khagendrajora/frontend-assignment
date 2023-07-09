@@ -1,3 +1,6 @@
+#Deployed url
+https://khagendraecommerceapp.netlify.app/
+
 # Assignment Title: E-commerce Development Task
 
 ## Assignment Description:
